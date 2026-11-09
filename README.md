@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="./assets/anime-avatars.png" width="100%" />
 
@@ -21,6 +20,26 @@
 
 ---
 
+<h2 align="center">🌙 Khushi's Anime World</h2>
+
+<p align="center">
+  <i>A little universe filled with dreams, stars and cherry blossoms. 💜</i>
+</p>
+
+<div align="center">
+
+<img src="./assets/anime-character.png" width="38%" />
+&nbsp;&nbsp;
+<img src="./assets/anime-sakura-banner.jpg" width="58%" />
+
+</div>
+
+<p align="center">
+  🌸 Dream • Create • Code • Repeat 🌸
+</p>
+
+---
+
 <h2 align="center">💜 Tech Stack</h2>
 
 <p align="center">
@@ -33,9 +52,11 @@
 
 <div align="center">
 
-### ✨ TEAMFLOW
+<h3>✨ TEAMFLOW</h3>
 
-A full-stack MERN application with real-time chat and task management.
+<p>
+  A full-stack MERN application with real-time chat and task management.
+</p>
 
 <a href="https://github.com/khushi-87090/TEAMFLOW">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-9B59B6?style=for-the-badge&logo=github&logoColor=white"/>
@@ -67,6 +88,10 @@ A full-stack MERN application with real-time chat and task management.
 ---
 
 <h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <i>Every contribution is another step in my coding journey!</i>
+</p>
 
 <div align="center">
 
